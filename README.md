@@ -13,4 +13,4 @@
 ### EfficientNetB4 offers a good balance between model size and performance, making it suitable for deployment on resource-constrained devices.
 
 # Deployment
-## The model is deployed using a streamlit  web application, allowing users to interact with it by uploading images and receiving predictions on weather conditions in real time. The deployed application achieves 91% accuracy on the test set, demonstrating its effectiveness in recognizing weather patterns.
+## The model is deployed using a `streamlit  web application`, allowing users to interact with it by uploading images and receiving predictions on weather conditions in real time. The deployed application achieves 91% accuracy on the test set, demonstrating its effectiveness in recognizing weather patterns.
